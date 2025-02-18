@@ -13,8 +13,8 @@ TagManager:
   - Water
   - UI
   - player
-  - 
-  - 
+  - Background
+  - Sky Limit
   - 
   - 
   - 
@@ -39,6 +39,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 117288207
+    locked: 0
+  - name: player
+    uniqueID: 1590531123
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Limits
+    uniqueID: 196962805
     locked: 0
